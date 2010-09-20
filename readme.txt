@@ -16,8 +16,9 @@ This plugin uses a combination of CSS (when possible) and Javascript to removed 
 
 Each admin interface element is individually selected for removal.  The elements that can be removed are:
 
-* WordPress logo
-* The "Visit site"
+* The header WordPress logo
+* The "Visit site" link
+* The "Search Engines Blocked" link
 * The favorites shortcut dropdown
 * The "Howdy," greeting before your username
 * Your username link to your profile
