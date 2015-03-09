@@ -7,7 +7,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Requires at least: 3.8
 Tested up to: 4.1
 Stable tag: 3.0
-Version: 3.0
 
 Customize the WordPress admin pages by selectively removing interface elements.
 
